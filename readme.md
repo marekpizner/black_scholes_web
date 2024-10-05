@@ -1,5 +1,5 @@
 # Run me:
-`streamlit run app.py`
+`streamlit run black_scholes_web_app.py`
 
 # Inspiration from
 https://github.com/prudhvi-reddy-m/BlackScholes

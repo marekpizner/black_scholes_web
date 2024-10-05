@@ -1,7 +1,6 @@
 import numpy as np
 from scipy.stats import norm
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 def black_scholes_price(S, K, T, r, sigma, option_type="call"):
     """Calculate Black-Scholes option price."""
