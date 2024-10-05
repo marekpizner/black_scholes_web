@@ -81,4 +81,4 @@ for model_name, model_func in models.items():
 
 # Footer
 st.markdown("---")
-st.markdown("Created by [Marek Pizner](https://www.linkedin.com/in/yourprofile/)")
+st.markdown("Created by [Marek Pizner](https://www.linkedin.com/in/marek-pizner-33a7a5150/)")
