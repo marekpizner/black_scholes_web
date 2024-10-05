@@ -17,7 +17,7 @@ st.set_page_config(
 # Title and Description
 st.title("📊 Option Pricing Heatmaps")
 st.markdown("""
-This application generates heatmaps for European call and put option prices using various pricing models.
+This application generates heatmaps for call and put option prices using various pricing models.
 """)
 
 # Sidebar Inputs
